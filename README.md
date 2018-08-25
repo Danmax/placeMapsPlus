@@ -1,2 +1,0 @@
-# placeMapsPlus
-Created with CodeSandbox
